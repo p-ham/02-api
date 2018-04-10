@@ -1,13 +1,13 @@
 {
-  "name": "01-templates",
+  "name": "02-aou",
   "version": "1.0.0",
-  "description": "01-templates",
+  "description": "02-api",
   "main": "index.js",
   "scripts": {
     "build": "grunt",
     "start": "grunt start"
   },
-  "author": "Hannes Moser <hannes@impossiblearts.com>",
+  "author": "Philipp Hamerle <phamerle.mmt-b2016@fh-salzburg.ac.at>",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.18.0",
